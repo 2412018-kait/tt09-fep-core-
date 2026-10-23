@@ -14,7 +14,7 @@ Includes an adaptive suppression gate (alert_gate) to reduce learning rate durin
 
 ## How to test
 
-Explain how to use your project
+Apply 8-bit Q1.14 input values to ui_in and observe internal state mu on uo_out.
 
 ## External hardware
 
